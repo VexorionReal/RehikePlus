@@ -34,6 +34,7 @@ class ConfigDefinitions
                             "PLAYER_2014",
 							"PLAYER_2015",
 							"PLAYER_2015_NEW",
+				                        "PLAYER_2017",
                             "PLAYER_2020",
                             "PLAYER_2022"
                         ])
