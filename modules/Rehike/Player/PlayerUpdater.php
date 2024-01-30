@@ -82,6 +82,11 @@ class PlayerUpdater
             $effectiveJsUrl = "/yts/jsbin/player_ias-vfl1Ng2HU/en_US/base.js";
             $effectiveCssUrl = "/yts/cssbin/player-vflfo9Nwd/www-player-webp.css";
         }
+	        else if("PLAYER_2017" === $playerChoice)
+	        {
+		        $effectiveJsUrl = "/yts/jsbin/player-vfl2iVoNh/en_US/base.js"; // this is temporary, as I'm gonna patch this player at a later date.
+		        $effectiveCssUrl = "/yts/cssbin/player-vflaNgOcC/www-player.css";
+        }
 		else if("PLAYER_2015_NEW" === $playerChoice)
 		{
 			$effectiveJsUrl = "/rehike/static/js/html5player/2015/html5player-new.js";
