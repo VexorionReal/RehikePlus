@@ -54,7 +54,7 @@ class ConfigDefinitions
                         ),
 					"classicPlayerColor" =>
                         new DependentProp(
-                            "appearance.playerChoice == PLAYER_2014 || appearance.playerChoice == PLAYER_2015 || appearance.playerChoice == PLAYER_2015_NEW", // temporarily 2014 player only as idk how to set it on newer players
+                            "appearance.playerChoice == PLAYER_2014 || appearance.playerChoice == PLAYER_2015 || appearance.playerChoice == PLAYER_2015_NEW || appearance.playerChoice == PLAYER_2017", // temporarily 2014 player only as idk how to set it on newer players
                             new EnumProp("RED", [
 								"RED",
 								"WHITE"
