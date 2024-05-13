@@ -1,0 +1,69 @@
+languageName: "Ślůnsko godka"
+writingDirection: ltr
+
+thousandsSeparator: " "
+decimalSeparator: "."
+
+numberOfMonths: 12
+daysInWeek: 7
+
+spaceOnLineBreak: true
+
+standardDateOrder: dmy
+
+firstDayOfWeek: 1 # niydziela
+
+# https://www.php.net/manual/en/datetime.format.php
+expandedDateWithTime: "l, j F Y H:i" # wtorek, 17 paździyrnika 2023 12:50
+expandedDate: "l, j F Y" # wtorek, 17 paździyrnika 2023
+dateWithTime: "j F Y H:i" # 17 paździyrnika 2023 12:50
+date: "j F Y" # 17 paździyrnika 2023
+shortDateWithTime: "d.m.Y H:i" # 17.10.2023 12:50
+shortDate: "d.m.Y" # 17.10.2023
+time: "H:i" # 12:50
+
+daysOfWeek:
+  1: "niydziela"
+  2: "pyńdziałek"
+  3: "wtorek"
+  4: "strzoda"
+  5: "sztwŏrtek"
+  6: "piōntek"
+  7: "sobota"
+
+shortDaysOfWeek:
+  1: "niedz."
+  2: "pyń."
+  3: "wt."
+  4: "st."
+  5: "szt."
+  6: "pt."
+  7: "sob."
+
+monthNames:
+  1: "styńdzia"
+  2: "lutego"
+  3: "marca"
+  4: "kwietnia"
+  5: "majego"
+  6: "czyrwnia"
+  7: "lipnia"
+  8: "siyrpnia"
+  9: "września"
+  10: "paździyrnika"
+  11: "listopada"
+  12: "grudnia"
+
+shortMonthNames:
+  1: "sty"
+  2: "lut"
+  3: "mar"
+  4: "kwi"
+  5: "maj"
+  6: "czy"
+  7: "lip"
+  8: "siy"
+  9: "wrz"
+  10: "paź"
+  11: "lis"
+  12: "gru"
